@@ -8,11 +8,12 @@ This is a portfolio website built using React.js and Three.js. It showcases my w
 
 - Clone the repository:
 
-   ```git clone https://github.com/your-username/your-repo.git```
+```git clone https://github.com/your-username/your-repo.git```
 
 - Navigate to the project directory:
 
 ```cd your-repo```
+
 
 - Install the project dependencies:
 
@@ -20,17 +21,20 @@ This is a portfolio website built using React.js and Three.js. It showcases my w
 
 This command will install the necessary dependencies, including `@react-three/fiber`, `@react-three/drei`, `maath`, `react-titl`, `react-vertical-timeline-component`, `@emailjs/browser`, `framer-motion`, and `react-router-dom`.
 
+
 -Install additional development dependencies:
 
 ``` npm install --legacy-peer-deps -D postcss autoprefixer```
 
-- This command installs postcss and autoprefixer as development dependencies.
+This command installs postcss and autoprefixer as development dependencies.
+
 
 - Install Three.js library:
 
 ```npm install --legacy-peer-deps three```
 
-- This command installs the Three.js library, which is used for 3D rendering in the portfolio website.
+This command installs the Three.js library, which is used for 3D rendering in the portfolio website.
+
 
 ## Usage
 
