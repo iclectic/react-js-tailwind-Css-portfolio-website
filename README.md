@@ -22,7 +22,7 @@ This is a portfolio website built using React.js and Three.js. It showcases my w
 This command will install the necessary dependencies, including `@react-three/fiber`, `@react-three/drei`, `maath`, `react-titl`, `react-vertical-timeline-component`, `@emailjs/browser`, `framer-motion`, and `react-router-dom`.
 
 
--Install additional development dependencies:
+- Install additional development dependencies:
 
 ``` npm install --legacy-peer-deps -D postcss autoprefixer```
 
